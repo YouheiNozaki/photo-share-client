@@ -3,10 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "apollo-cache-persist": "^0.1.1",
     "cra-template": "1.0.3",
+    "graphql": "^15.0.0",
     "react": "^16.9.0",
+    "react-apollo": "^3.1.5",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.4.1"
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "recompose": "^0.30.0",
+    "use-react-router": "^1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
